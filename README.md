@@ -4,7 +4,7 @@
 [![Accuracy](https://img.shields.io/badge/Accuracy-99.28%25-blue)]()
 [![Python](https://img.shields.io/badge/Python-3.11-yellow)]()
 
-> **Top 850 / 38,000+ teams** - India AI Impact Buildathon 2026 Grand Finalist
+> **Top 200 / 38,000+ teams** - India AI Impact Buildathon 2026 Grand Finalist
 
 An AI-powered REST API that detects whether voice samples are AI-generated or spoken by real humans across **5 Indian languages**.
 
